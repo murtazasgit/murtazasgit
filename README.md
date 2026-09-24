@@ -22,10 +22,10 @@
 
 - 🪼 Research Intern at **DRDO CAIR**, working on document security & CDR
 - 🪼 B.Tech **Computer Science & Engineering** @ Presidency University, Bengaluru
-- 🪼 CGPA: **9.31 / 10**
+- 🪼 **CGPA:** `9.31 / 10`
 - 🪼 Exploring **AI/ML, LLMs, Backend & Full-Stack Development**
-- 🪼 Interested in **Cybersecurity, Systems & Intelligent Automation**
-- 🪼 How to reach me: `murtaza78321@gmail.com`
+- 🪼 Sharpening my **Data Structures & Algorithms** skills
+- 🪼 How to reach me: `murtaza78321@gmail.com` • [LinkedIn](https://www.linkedin.com/in/murtaza1hussain/)
 
 </div>
 
@@ -73,30 +73,6 @@ Working on **DocShield**, a document security system designed to detect and remo
 
 ---
 
-<!-- Projects -->
-<div>
-
-<img src="https://placehold.co/200x50/transparent/FF69B4?text=Featured+Projects&font=Montserrat&font-weight=700" />
-
-### 📋 Trello Board API
-**Node.js • Express • MongoDB • JWT**
-
-Kanban-style task management backend with JWT authentication, authorization and RESTful CRUD APIs.
-
-### 🤖 ResumeCrafter
-**Node.js • Express • LLMs • Groq**
-
-AI-powered resume and cover-letter generator using Llama 3.3 and structured JSON output.
-
-### ⛓️ OpenGovern
-**Algorand • Python • TypeScript • React**
-
-DAO governance platform supporting proposal creation, voting and automated treasury disbursement.
-
-</div>
-
----
-
 <!-- GitHub Stats -->
 <div align="center">
 
@@ -125,9 +101,9 @@ DAO governance platform supporting proposal creation, voting and automated treas
 <img src="https://placehold.co/200x50/transparent/FF69B4?text=What+I+Enjoy&font=Montserrat&font-weight=700" />
 
 <ul>
-  <li>🪼 Building practical projects</li>
+  <li>🪼 Solving Data Structures & Algorithms problems</li>
   <li>🪼 Exploring new technologies</li>
-  <li>🪼 Breaking down complex problems</li>
+  <li>🪼 Building practical projects</li>
   <li>🪼 Turning ideas into working systems</li>
 </ul>
 
